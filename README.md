@@ -1,2 +1,2 @@
 # classification_01
-A classification modeling 
+The data is taken from https://github.com/manishchet/Acqwire-predict-whether-a-startup-will-suceed-or-not . It is no more valid but you can download it. We had no further variable description for the data. The exploratory part is shortened for time efficient concerns. Logistic regression modeling is used. This work aimed to examine the steps of a logistic regression modeling better and compare the 5-fold cross validation and traditional train-test split. Results are shown in the brief report.   
