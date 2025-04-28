@@ -1,2 +1,9 @@
 # classification_01
-The data is taken from https://github.com/manishchet/Acqwire-predict-whether-a-startup-will-suceed-or-not . It is no more valid but you can download it. We had no further variable description for the data. The exploratory part is shortened for time efficiency concerns. Traditional logistic regression modelling is used since it is the fundamental model for classification modeling. This work is aimed to examine the steps of a logistic regression modeling better and compare the 5-fold cross validation and train-validation and test split. Every section is detailed with explanations for ease of the reader. Results are shown in the brief report.   
+The dataset used in this project was sourced from this repository: https://github.com/manishchet/Acqwire-predict-whether-a-startup-will-suceed-or-not. Although the original link is no longer active, the dataset can still be downloaded. Unfortunately, no detailed variable descriptions were provided for the data. Therefore, the exploratory data analysis (EDA) section has been kept concise to maintain time efficiency.
+A traditional logistic regression model was applied, as it serves as the fundamental method for binary classification tasks.
+The main objective of this project is to thoroughly demonstrate the steps of logistic regression modelling and to compare evaluation approaches: 5-fold cross-validation, train-validation-test split and model comparison.
+Each section of the analysis is accompanied by detailed explanations to ensure clarity and ease of understanding for the reader. Key results and findings are summarized in a brief report.
+The current project is further extended in another repository titled "Supervised ML: Problem Classification".
+In that study, the final model developed here will be utilized as a baseline to evaluate and compare the performance of various supervised machine learning algorithms.
+
+
